@@ -1,0 +1,37 @@
+body {
+  background-color: bisque;
+  display: flex;
+}
+
+.title {
+  color: brown;
+}
+
+.image {
+  width: 200px;
+  height: 280px;
+}
+
+.author {
+  font-size: 20px;
+}
+
+.date {
+  font-size: 20px;
+}
+
+.note {
+  margin: auto;
+  font-size: 17px;
+}
+
+.bookL {
+  display: flex;
+  justify-content: center;
+  gap: 120px;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
